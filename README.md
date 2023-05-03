@@ -1,1 +1,1 @@
-# kenzie_commerce
+# kenzie-commerce
